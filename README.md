@@ -11,13 +11,13 @@ Employee data analysis using SQL
 - The criteria for retiring was employee's birth data is  between 1952 to 1955
 - And the criteria for those participating in our mentorship program is between Jan 1965 to Dec 1965
 - We have high number of Senior Staff and Senior engineer who are retiring, 
-- 
+- Our mentorship program will be having insufficient staff to provide mentorship.
+* Below is the number of employees who are going to participate in our mentorship program 
+![Employee participating in mentorship program](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/participating_in_mentorship.PNG)
 
 ## Summary:
- * Below is the number of employees who are going to retire by title 
- 
- ![Employee retiring](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/retiring.PNG)
- 
- * Below is the number of employees who are going to participate in our mentorship program 
- 
-  ![Employee participating in mentorship program](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/participating_in_mentorship.PNG)
+* Below is the number of employees who are going to retire by title 
+![Employee retiring](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/retiring.PNG)
+
+* Below is the number of Current employee 
+![Current employee by title]()
