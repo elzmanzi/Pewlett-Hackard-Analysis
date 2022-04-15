@@ -13,11 +13,15 @@ Employee data analysis using SQL
 - We have high number of Senior Staff and Senior engineer who are retiring, 
 - Our mentorship program will be having insufficient staff to provide mentorship.
 * Below is the number of employees who are going to participate in our mentorship program 
-![Employee participating in mentorship program](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/participating_in_mentorship.PNG)
+
+    ![Employee participating in mentorship program](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/participating_in_mentorship.PNG)
 
 ## Summary:
+
 * Below is the number of employees who are going to retire by title 
-![Employee retiring](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/retiring.PNG)
+
+    ![Employee retiring](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/retiring.PNG)
 
 * Below is the number of Current employee 
-![Current employee by title]()
+
+    ![Current employee by title](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/current_emp_title.PNG)
