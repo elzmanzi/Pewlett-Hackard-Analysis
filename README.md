@@ -15,8 +15,8 @@ Employee data analysis using SQL
 
 ## Summary:
 
-- The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
 * Below is the number of employees who are going to retire by title 
-    ![Employee retiring](link)
+    ![Employee retiring](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/retiring.PNG)
     * Below is the number of employees who are going to participate in our mentorship program 
-    ![Employee participating in mentorship program](link)
+    ![Employee participating in mentorship program](https://github.com/elzmanzi/Pewlett-Hackard-Analysis/blob/main/Data/participating_in_mentorship.PNG)
